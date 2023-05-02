@@ -18,9 +18,9 @@
 <!--  <td style="border: none; padding: 0; margin: 0;">
 <a href="https://instagram.com/isunil.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isunil.v" height="30" width="40" /></a>
 </td -->
-    </tr>
+<!--     </tr>
 </table>
-
+ -->
 <h3 align="left">Languages and Tools I Know:</h3>
 <table style="border: none;">
   <tr style="border: none; padding: 0; margin: 0;">
