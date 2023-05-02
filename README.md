@@ -22,9 +22,9 @@
 </table>
  -->
 <h3 align="left">Languages and Tools I Know:</h3>
-<table style="border: none;">
+<!-- <table style="border: none;">
   <tr style="border: none; padding: 0; margin: 0;">
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> </td>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> </td> -->
 
 <td style="border: none; padding: 0; margin: 0;"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  </td>
